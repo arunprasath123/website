@@ -37,6 +37,7 @@ a:link,a:visited{
 }
 a:hover,a:active{
 	color:green;
+	outline-color: black;
 
 }
 
