@@ -1,9 +1,18 @@
+.login{
+	color:orange;
+	text-align: right;
+	display: inline;
+    padding-left: 18%;
+}
+
 h1{
 	color:orange;
 	font-family:initial;
 	font-size:50px;
 	font-style:normal;
 	text-align: center;
+	display: inline;
+
 }
 
 body{
